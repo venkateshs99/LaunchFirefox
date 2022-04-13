@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;geckodriver.exe&apos; to &apos;SeleniumBrowser&apos;&#x0D;&#x0A;- Original project: &apos;Locators in selinium1&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumBrowser&apos;&#x0D;&#x0A;- Original element: &apos;geckodriver.exe&apos;" description="Copy file" element1="FirefoxBrowser/geckodriver.exe" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649676958155" target="/Radiobuttons/SeleniumBrowser" units="0" version="1.0"/>
+</session>
